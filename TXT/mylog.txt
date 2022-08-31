@@ -1,6 +1,6 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
-# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+# LogCode: https://iqbaldwitama.github.io/os222/TXT/mylog.txt
 
 ZCZC W00 30 L00 GitHub related
 ZCZC W00 20 L01 GitHub Pages related
