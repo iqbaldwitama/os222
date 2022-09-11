@@ -1,0 +1,11 @@
+version: "0001--11-Sep-2022"
+author: "iqbaldwitama"
+title: "OS222: Operating Systems 2022-2"
+githublink: "https://github.com/iqbaldwitama/os222"
+githubpagelink: "https://iqbaldwitama.github.io/os222/"
+tblink: "https://os.vlsm.org/Log/iqbaldwitama.tar.bz2.txt"
+loglink: "/TXT/mylog.txt"
+encoding: "UTF-8"
+copyright: "2022"
+github: [metadata]
+
