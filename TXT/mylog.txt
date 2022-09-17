@@ -26,7 +26,11 @@ ZCZC W01 60 L13 Update helpful links
 ZCZC W02 100 L02 ZOOM meetings
 ZCZC W02 100 L02 ZOOM meetings
 ZCZC W02 100 L11 Assignment #1 Finished
-ZCZC W02 30 L12 Assignment #2 Finished
+ZCZC W02 50 L12 Assignment #2 Finished
 ZCZC W02 80 L13 Assignment #3 Finished
 ZCZC W02 150 L14 Assignment #4 Finished
-ZCZC W02 80 L15 Assignment #5 Finished
+ZCZC W02 90 L15 Assignment #5 Finished
+ZCZC W02 50 L06 Read books and references to prepare for Quiz Week 02
+ZCZC W02 60 L05 Study Week 01 Slide
+ZCZC W02 3 L05 Quiz
+
