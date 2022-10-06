@@ -33,3 +33,11 @@ This video explains everything about FHS or Filesystem Hierarchy Standard briefl
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
 <br>
+
+## Week 04
+[1. Pointers in C++](https://personal.utdallas.edu/~rkm010300/utd/cs3376/ppt/ch09.pdf)
+This slide presentation provides a good understanding for basic pointers in C++. Even though we are using C programming language, it explained the concept of pointer that's also used in the C languange.
+
+## Week 05
+[1. Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+This webpage explains the concept of virtual memory in the context of operating system. This page also provides pictures to help the audience visualize the concept.

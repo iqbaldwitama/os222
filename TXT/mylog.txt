@@ -52,3 +52,14 @@ ZCZC W04 100 L02 Onsite Class
 ZCZC W04 120 L64 Help friends related to assignment week 04
 ZCZC W04 30 L03 Github and git related
 ZCZC W04 150 L05 Quiz related including studying
+
+ZCZC W05 100 L02 Weekly lecture Zoom meeting
+ZCZC W05 90 L11 Assignment #1 Finished
+ZCZC W05 60 L12 Assignment #2 Finished
+ZCZC W05 55 L13 Assignment #3 Finished
+ZCZC W05 50 L14 Assignment #4 Finished
+ZCZC W05 100 L02 Onsite Class
+ZCZC W05 60 L64 Help friends related to assignment week 04
+ZCZC W05 30 L03 Github and git related
+ZCZC W05 150 L05 Quiz related including studying
+ZCZC W05 30 L03 Github and git related, including commit, push, pull
