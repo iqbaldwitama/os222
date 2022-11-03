@@ -41,3 +41,7 @@ This slide presentation provides a good understanding for basic pointers in C++.
 ## Week 05
 [1. Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
 This webpage explains the concept of virtual memory in the context of operating system. This page also provides pictures to help the audience visualize the concept.
+
+## Week 06
+[1. Processes and Threads (Concurrency Basics)]{https://www.youtube.com/watch?v=Wv7mzX8w3jI)
+This video explains about the differences between processes and threads, and concurrency vs parallelism. This quick video uses some visualizations to explains the basics of multi-threading programming. I recommend this video as a headstart for you to learn about the basics of concurrency and multi-threading programming.

@@ -63,3 +63,18 @@ ZCZC W05 60 L64 Help friends related to assignment week 04
 ZCZC W05 30 L03 Github and git related
 ZCZC W05 150 L05 Quiz related including studying
 ZCZC W05 30 L03 Github and git related, including commit, push, pull
+
+ZCZC W06 100 L02 Weekly lecture Zoom meeting
+ZCZC W06 100 L02 Onsite Class
+ZCZC W06 45 L14 Assignment Week 06 (Fork() and Shared Memory)
+ZCZC W06 15 L17 Assignment Week 06 (Review peer links)
+ZCZC W06 10 L18 Assignment Week 06 (Update mylog.txt)
+ZCZC W06 10 L19 Assignment Week 06 (Submit assignment)
+ZCZC W06 60 L15 Assignment Week 06 (Update LINKS)
+ZCZC W06 120 L11 Assignment Week 06 (Read OSC10 chapter 3 and 4)
+ZCZC W06 60 L12 Assignment Week 06 (Try demos)
+ZCZC W06 90 L13 Assignment Week 06 (Try Previous MidTem Problems)
+ZCZC W06 240 L64 Help friends related to assignment week 06
+ZCZC W06 120 L64 Help friends related to operating system stuff
+ZCZC W06 150 L05 Quiz related including studying
+ZCZC W06 30 L03 Github and git related
