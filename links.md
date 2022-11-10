@@ -45,3 +45,7 @@ This webpage explains the concept of virtual memory in the context of operating 
 ## Week 06
 [1. Processes and Threads (Concurrency Basics)]{https://www.youtube.com/watch?v=Wv7mzX8w3jI)
 This video explains about the differences between processes and threads, and concurrency vs parallelism. This quick video uses some visualizations to explains the basics of multi-threading programming. I recommend this video as a headstart for you to learn about the basics of concurrency and multi-threading programming.
+
+## Week 07
+[1. Process Synchronization] {https://youtu.be/ph2awKa8r5Y}
+This video explains topics such as process synchronization, cooperation processes, brief recap of shared memory systems and producer-consumer problem, and also race condition. The explanation was clear so it's easy to understand.

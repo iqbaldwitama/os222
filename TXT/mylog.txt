@@ -78,3 +78,15 @@ ZCZC W06 240 L64 Help friends related to assignment week 06
 ZCZC W06 120 L64 Help friends related to operating system stuff
 ZCZC W06 150 L05 Quiz related including studying
 ZCZC W06 30 L03 Github and git related
+
+ZCZC W07 100 L02 Weekly lecture Zoom meeting
+ZCZC W07 100 L02 Onsite Class
+ZCZC W07 120 L11 Assignment Week 07 (Read OSC10 chapter 6,7 and 8)
+ZCZC W07 60 L12 Assignment Week 07 (Try demos)
+ZCZC W07 90 L13 Assignment Week 07 (Try Previous MidTem Problems)
+ZCZC W07 50 L14 Assignment Week 07 (Run Scripts)
+ZCZC W07 60 L17 Assignment Week 07 (Synchronization)
+ZCZC W07 240 L64 Help friends related to assignment week 06
+ZCZC W07 120 L64 Help friends related to operating system stuff
+ZCZC W07 150 L05 Quiz related including studying
+ZCZC W07 30 L03 Github and git related
