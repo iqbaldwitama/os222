@@ -28,11 +28,7 @@ This video explains a brief introduction about cybersecurity including some atta
 ## Week 03
 [1. Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)
 This video explains everything about FHS or Filesystem Hierarchy Standard briefly. In 100 seconds, it explains basic thing we need to know about the introduction of FHS.
-<br>
-<hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
-<hr>
-<br>
+
 
 ## Week 04
 [1. Pointers in C++](https://personal.utdallas.edu/~rkm010300/utd/cs3376/ppt/ch09.pdf)
@@ -47,5 +43,9 @@ This webpage explains the concept of virtual memory in the context of operating 
 This video explains about the differences between processes and threads, and concurrency vs parallelism. This quick video uses some visualizations to explains the basics of multi-threading programming. I recommend this video as a headstart for you to learn about the basics of concurrency and multi-threading programming.
 
 ## Week 07
-[1. Process Synchronization] {https://youtu.be/ph2awKa8r5Y}
+[1. Process Synchronization]{https://youtu.be/ph2awKa8r5Y}
 This video explains topics such as process synchronization, cooperation processes, brief recap of shared memory systems and producer-consumer problem, and also race condition. The explanation was clear so it's easy to understand.
+
+## Week 08
+[1. Linux From Scratch]{https://www.linuxfromscratch.org/lfs/view/11.0/}
+This is the official guidance to make the latest version of LFS (current latest release is 1st September 2021, when this links resource is written). As Mr. Rahmat says, please expect downtime as a "normal" situation happened in this website. Please understand and comprehend this guide thoroughly to get the best output.
